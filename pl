@@ -1,1 +1,34 @@
+[center][b]🆕 [color=#FF5733]Aktualizacja 2.6.9.9[/color] (Ogromna aktualizacja wyglądu) 🧩[/b][/center]
+[center]Czeka Cię zupełnie nowy interfejs oraz masa poprawek i dodatków! 🌟[/center]
 
+[b]🎨 Nowy wygląd i personalizacja:[/b]
+[color=lime]• Odświeżony cały interfejs gry[/color] ✨
+• Nowe motywy w stylu szkła 🎭
+• Zmienione tekstury i animacje przycisków 🎮
+• Dodano wiele animowanych elementów oraz komunikaty po zniszczeniu linii 🧠
+• Naprawiono widoczność niestandardowego tła w menu ustawień 🖼️
+
+[b]👤 Zmiany w profilach:[/b]
+• Usunięto ograniczenia profilu globalnego 🔓
+• Dodano ikonę pomocy przy tablicy wyników, jak zmienić nazwę profilu 📱
+• Możliwość ukrycia najlepszego i ostatniego wyniku w menu głównym 👁️
+
+[b]🛠️ Inne ulepszenia i dodatki:[/b]
+• Poprawiono motywy i ich odświeżenie 🔄
+• Ulepszone tłumaczenia 🛠️
+• Zmieniono ikonę aplikacji 📱
+• Poprawiono wygląd ikon oraz okien dialogowych 🔔
+• Nowy system komunikatów ✨
+• Dodano więcej możliwości dostosowania ustawień dźwięku🛠️
+• Zmieniona nazwa pakietu aplikacji: [i]Tetris.TetracodeStudio.com[/i] ⚙️
+• Poprawiono napisy w zakładce twórcy 💻
+
+[b]🌍 Języki i dokumentacja:[/b]
+• Dodano 🇵🇹 Portugalski i 🇪🇸 Hiszpański
+• Dodano plik [i]License.txt[/i] 📄
+• Dodano plik [i]SourceCodeChanges.txt[/i] (SCC) 📝
+
+[center][color=orange][b]🎉 Dołącz do naszego Discorda![/b][/color] 🔑[/center]
+[center]💻 Do wygrania klucze do gry – 3 z nich zawierają dostęp do [b]pełnego kodu źródłowego (Source Code)[/b]![/center]
+[center]📲 Kliknij napis [b]Discord[/b] w menu głównym gry, aby dołączyć![/center]
+[center][b]👾 Tetracode Studio[/b][/center]
